@@ -1,0 +1,8 @@
+.showHistory{
+    display: flex;
+    background-color: white;
+    margin-top: 150px;
+}
+.showHistoryBody{
+    margin: auto;
+}

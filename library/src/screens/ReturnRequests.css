@@ -1,0 +1,8 @@
+.returnRequests{
+    display: flex;
+    background-color: white;
+    margin-top: 150px;
+}
+.returnRequestsBody{
+    margin: auto;
+}

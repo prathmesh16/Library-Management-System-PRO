@@ -1,0 +1,9 @@
+.homeScreen{
+   display: flex;
+   margin-top: 150px;
+   background-color: white;
+}
+
+.homeScreen__contents{
+   margin: auto;
+}
